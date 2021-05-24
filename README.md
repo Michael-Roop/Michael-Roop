@@ -6,9 +6,9 @@
           - administrative-financial services platforms, incl. enterprise security
           - decisionmaking support systems
                     
-     I have spent two decades working in bluechip companies' financial, cashpool-centres, manufacturing, and new market entry/ventures
-     areas. Extensive experience and skills in finance, fund raising, business development - in mature industries.
-     My lifelong dream has been to develop software based fintech/investment businesses, service platforms and similar things.
+     I have spent two decades working in bluechip companies' financial, manufacturing, and new market entry/ventures
+     areas. Experience and skills in finance, fund raising, business development - in mature industries.
+     Lifelong dream to develop fintech businesses, service platforms and similar things.
      
 - 🌱 I’m currently re-learning programming, Java, C++ etc. on my own, but also through online classes, as my technical skills  
      are with Oracle, VB, Excel and Hyperion. 

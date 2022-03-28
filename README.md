@@ -11,8 +11,8 @@
      areas. Experience and skills in finance, fund raising, business development - in mature industries.
      Lifelong dream to develop fintech businesses, service platforms and similar things.
      
-- 🌱 I’m currently brushing programming, Java, C++ etc. on my own, but also through online classes, as my technical skills  
-     are with Oracle, VB, Excel and Hyperion. 
+- 🌱 I’m currently studying business intelligence, but also brushing up on programming, Java, C++ etc. on my own, but also through online classes, 
+     as my technical skills      are with Oracle, VB, Excel and Hyperion. 
 
 - 💞️ I’m looking to start collaborate early on with people who have complementary skill sets and interests, as I am a fearless serial
      entrepreneur, fast learner, and no stranger to feedback. 
